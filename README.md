@@ -70,8 +70,8 @@ Syntax:
   | A SIMPL program is a sequence of var statements, initialized |
   | to ints, followed by instructions                            |
   |                                                              |
-  | (vars [(x 0) (y 1) (z 2)]                                    |
-  |       (print x))                                             |
+  | e.g. (vars [(x 0) (y 1) (z 2)]                               |
+  |              (print x))                                      |
   |                                                              |
   | 
   | _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
